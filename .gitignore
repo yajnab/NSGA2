@@ -1,0 +1,7 @@
+*.o
+./input_data/
+*.swp
+*.sh
+*.out
+*.in
+*~
